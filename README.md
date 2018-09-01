@@ -1,1 +1,3 @@
-# Kakao_Clone_theory
+#kakao Clone
+
+Kakao Desktop Clone App
